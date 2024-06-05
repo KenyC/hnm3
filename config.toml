@@ -1,5 +1,5 @@
 # The URL the site will be built for
-base_url = "https://hnm3-workshop.netlify.app/"
+base_url = "https://hnm3.netlify.app"
 title = "HNM3"
 
 # Whether to automatically compile all Sass files in the sass directory
