@@ -5,7 +5,7 @@ description = "Gaps and imprecision in natural language semantics workshop (form
 
 
 
-This workshop aims to gather semanticists and psycholinguists interested by gappy phenomena (homogeneity gaps, presuppositions, implicatures, ) and imprecisision, in plural predication and beyond. The workshop will feature talks reporting on new research in this area as well as two invited talks. Thiws workshop continues and broadens the scope of the HNM workshop series.
+This workshop aims to gather semanticists and psycholinguists interested by gappy phenomena (homogeneity gaps, presuppositions, implicatures, etc.) and imprecisision, in plural predication and beyond. The workshop will feature talks reporting on new research in this area as well as two invited talks. Thiws workshop continues and broadens the scope of the HNM workshop series from homogeneity and non-maximality phenomena to other types of gappy and imprecision phenomena.
 
 <!-- This workshop is supported by funding from . -->
 
