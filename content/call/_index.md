@@ -2,13 +2,25 @@
 title = "Call for Abstracts"
 +++
 
+# Abstract requirements
+
+ - There will be two talk categories: full talks (40 minutes) and squibs (20 minutes). In the submission form, you will need to indicate whether you want your submission to be considered for either of the two formats or both.
+ - The main text of the abstract should be at most 3 pages (Times New Roman, 12pt, 2.5cm margin).
+ - References, figures and glossed examples may be added on additional pages exceeding the 3-page limit.
+ - Abstracts should be anonymized and submitted in PDF format.
+ - Deadline: July 15th, 12:00 (noon) EST/18:00 CET
+ - Any questions may be sent to gapsandimprecision@gmail.com
+ - Submit to [EasyAbs](https://easyabs.linguistlist.org/conference/GINLS/)
+
+
+# Call
 
 This workshop aims to bring together semanticists and psycholinguists interested in 
 
  1. distinguishing or unifying different gap phenomena in natural language (homogeneity, presuppositions, gaps induced by exhaustification, vague predication)
  2. distinguishing or unifying different classes of imprecise expressions, i.e. expressions whose semantic “strength” co-varies with the QUD or discourse goal, and investigating the relation between imprecision and other forms of context-dependent interpretation
 
-# Background
+## Background
 
 The first two editions of the HNM workshop series approached these issues through the lens of homogeneity and non-maximality in plural predication. Homogeneity can be descriptively viewed as a kind of semantic gap between positive and negative sentences, as illustrated in (1), where neither sentence seems straightforwardly true if Ann read just some of the papers. Non-maximality refers to the observation that in some contexts, a plural sentence can be judged true in such a “gap scenario”. For instance, (2) can be judged true in a “some but not all” situation in case one open door is sufficient to enter the building (Krifka 1996).
 
@@ -22,7 +34,7 @@ Recent work has focused on identifying a larger class of phenomena beyond plural
 
 This third edition of the HNM workshop series aims to move this debate forward and extend it by asking which, if any, gap phenomena in natural language ought to receive a unified account, whether non-maximality in cases like (2) should be similarly unified with pragmatically similar phenomena, and how different methods can be brought together to shed light on these issues. 
 
-# Subtypes of gap phenomena
+## Subtypes of gap phenomena
 
 There is an ongoing debate as to whether cases like (1) belong into a natural class with other gap or strengthening phenomena, such as presuppositions (2), scalar inferences (3) or free choice inferences (4). For instance, homogeneity was traditionally thought of as a presupposition (e.g. Löbner 2000). While this view has been widely rejected in more recent work (e.g. Spector 2013, Kriz 2015), it has recently been revived by Guerrini & Wehbe (2024). 
 
@@ -40,7 +52,7 @@ b. You can’t have coffee or tea. (salient reading: you can’t have either)
 
 Combining an exh-based theory of homogeneity and free choice with the Presuppositional Exhaustification hypothesis ultimately leads to a theory in which (1), (2), (3) and (4) all involve truth-value gaps of the same kind. The broader question arising from this literature is to what extent a unified treatment of gap phenomena is empirically motivated, and whether differences in the projection pattern, context-sensitivity, and processing and acquisition patterns of the different gap phenomena motivate a distinction between different types of gaps (see e.g. Križ 2015, Bar-Lev 2021, Augurzky et al. 2023, Marty et al. 2021 for discussion).
 
-# Identifying natural classes of gappy expressions
+## Identifying natural classes of gappy expressions
 
 Besides the broader question of whether the established classification of gap/strengthening phenomena can be simplified, there is an empirical question of how the boundaries between these classes should be drawn and how homogeneity fits in. 
 
@@ -58,7 +70,7 @@ Finally, the excluded middle inferences associated with various modal expression
 a. If A declines the offer, they will hire B.  
 b. I doubt that if A declines the offer, they will hire B.
 
-# Identifying natural classes of imprecision phenomena
+## Identifying natural classes of imprecision phenomena
 
 With respect to cases of non-maximal plural predication, such as (2), we can ask an analogous question: Does non-maximality belong to a wider natural class of context-dependency phenomena? 
 
@@ -72,7 +84,7 @@ The puzzle here is that there are other phenomena that seem to show analogous QU
 
 A similar puzzle arises with absolute adjectives like full in (9), which can be interpreted as “completely full” or not depending on the contextual goals, but does not seem to introduce a homogeneity-like gap. Several authors have suggested unifying some or all of these phenomena (e.g. Lasersohn 1999, Križ 2015, Burnett 2017), but this raises several questions: First, how do we model the apparent lack of homogeneity gaps in cases like (8) and (9) (see e.g. Feinmann 2020)? Second, is there a predictive theory of which instances of imprecision come with gaps and which ones do not? Third, to what extent are “reductionist” approaches to homogeneity (e.g. exh-based and presupposition-based approaches) compatible with a uniform treatment of homogeneity and other imprecision phenomena? The flip side of this problem is that if we attribute imprecision in (8) and (9) and plural non-maximality to distinct mechanisms, the pragmatic parallels between these phenomena remain unexplained.
 
-# Methodology
+## Methodology
 
 Various methods have been employed to address the questions laid out above. Besides traditional informal judgments, experimental tasks have been developed that target the “robustness” of strengthening phenomena (Marty et al. 2024), their sensitivity to contextual manipulation (Augurzky et al. 2023, Ramotowska et al. 2023 a.o.) or the psychological reality of hypothesized truth-value gaps (Križ & Chemla 2015). All of these have the potential to shed light on which strengthening phenomena fall into natural subclasses.
 
@@ -80,7 +92,7 @@ The trajectory of these inferences in acquisition is also relevant. For instance
 
 Finally, cross-linguistic data can also shed light on which phenomena pattern together. For instance, Haslinger (2024) proposes that across languages, imprecise expressions are typically structurally less complex than their precise counterparts. If this hypothesis holds up, it could provide evidence for or against analyzing a given phenomenon as a case of imprecision.
 
-# Research topics for the workshop
+## Research topics for the workshop
 
 We welcome contributions addressing one or more of the following research topics:
 
