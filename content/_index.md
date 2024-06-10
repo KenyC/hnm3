@@ -1,18 +1,18 @@
 +++
 title = "Index"
-description = "HNM3 — Gaps and imprecision in natural language semantics"
+description = "Gaps and imprecision in natural language semantics workshop (formerly HNM)"
 +++
 
 
 
-This workshop aims to gather semanticists and psycholinguists interested by gappy phenomena (homogeneity gaps, presuppositions, implicatures, ) and imprecisision, in plural predication and beyond. The workshop will feature talks reporting on new research in this area as well as two invited talks.
+This workshop aims to gather semanticists and psycholinguists interested by gappy phenomena (homogeneity gaps, presuppositions, implicatures, ) and imprecisision, in plural predication and beyond. The workshop will feature talks reporting on new research in this area as well as two invited talks. Thiws workshop continues and broadens the scope of the HNM workshop series.
 
 <!-- This workshop is supported by funding from . -->
 
 For more information on submission, please refer to our [call for abstracts](/call).
 
 **Where:** Leibniz-Zentrum Allgemeine Sprachwissenschaft in Berlin (with option for online attendance)  
-**When:** October 15<sup>th</sup>-16<sup>th</sup> 2024  
+**When:** September 30<sup>th</sup>-October 1<sup>st</sup> 2024  
 **Registration:** not open yet
 
 

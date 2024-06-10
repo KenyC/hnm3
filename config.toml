@@ -1,6 +1,6 @@
 # The URL the site will be built for
-base_url = "https://hnm3.netlify.app"
-title = "HNM3"
+base_url = "https://gaps-and-imprecision.netlify.app"
+title = "GINLS"
 
 # Whether to automatically compile all Sass files in the sass directory
 compile_sass = true
@@ -48,7 +48,7 @@ webmanifest = "/icons/site.webmanifest"
 
 # Social links
 [extra.social]
-email = "hnm3.workshop@aol.com"
+email = "gapsandimprecision@gmail.com"
 
 
 
