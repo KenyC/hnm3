@@ -12,7 +12,7 @@ This workshop aims to gather semanticists and psycholinguists interested by gapp
 For more information on submission, please refer to our [call for abstracts](/call).
 
 **Where:** Leibniz-Zentrum Allgemeine Sprachwissenschaft in Berlin (with option for online attendance)  
-**When:** September 30<sup>th</sup>-October 1<sup>st</sup> 2024  
+**When:** October 8<sup>th</sup>-9<sup>th</sup> 2024  
 **Registration:** not open yet
 
 
