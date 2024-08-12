@@ -11,7 +11,7 @@ title = "Call for Abstracts"
  - <span class="strikeout">**Deadline:** July 31st, 12:00 (noon) EST/18:00 CET</span>   
    ↪ **Deadline extension:** August 10th, 12:00 (noon) EST/18:00 CET
  - Any questions may be sent to gapsandimprecision@gmail.com
- - Submit to [EasyAbs](https://easyabs.linguistlist.org/conference/GINLS/)
+ - <span class="strikeout">Submit to [EasyAbs](https://easyabs.linguistlist.org/conference/GINLS/)</span> → submissions closed!
 
 
 # Call
