@@ -5,7 +5,7 @@ description = "Gaps and imprecision in natural language semantics workshop (form
 
 
 
-This workshop aims to gather semanticists and psycholinguists interested by gappy phenomena (homogeneity gaps, presuppositions, implicatures, etc.) and imprecisision, in plural predication and beyond. The workshop will feature talks reporting on new research in this area as well as invited talks by [Nadine Bade](http://www.nadinebade.de/) (University of Potsdam) and [Jad Wehbe](https://jadwehbenet.wordpress.com/) (MIT) and a third invited speaker to be announced. 
+This workshop aims to gather semanticists and psycholinguists interested by gappy phenomena (homogeneity gaps, presuppositions, implicatures, etc.) and imprecisision, in plural predication and beyond. The workshop will feature talks reporting on new research in this area as well as invited talks by [Nadine Bade](http://www.nadinebade.de/) (University of Potsdam), [Jad Wehbe](https://jadwehbenet.wordpress.com/) (MIT) and [Benjamin Spector](https://sites.google.com/site/bspectorpage/) (Institut Jean Nicod). 
 
 This workshop continues and broadens the scope of the HNM workshop series from homogeneity and non-maximality phenomena to other types of gappy and imprecision phenomena.
 
