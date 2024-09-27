@@ -102,9 +102,7 @@ data from polar questions</em></td>
 <tr>
 <td style="text-align: center;">11:40-12:00</td>
 <td style="text-align: left;">Stefan Milosavljević
-(Karl-Franzens-Universität Graz): <br><strong>*</strong><em>Children’s
-Acquisition of Non-maximality in Plural Definite Sentences with
-Context</em></td>
+(Karl-Franzens-Universität Graz): <br><strong>*</strong><em>Where does the multifunctionality of ‘lexical’ cloning come from? A unified account of prototypicality, precisification and domain widening</em></td>
 </tr>
 <tr>
 <td style="text-align: center;">12:00-12:40</td>
