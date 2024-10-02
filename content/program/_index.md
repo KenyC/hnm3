@@ -26,10 +26,10 @@ Nicod/ENS): invited talk (TBA)</td>
 </tr>
 <tr>
 <td style="text-align: center;">11:20-12:00</td>
-<td style="text-align: left;">Itai Bassi (ZAS) and Moshe E. Bar-Lev (Tel
+<td style="text-align: left;"><a href="abstracts/bassi_barlev.pdf">Itai Bassi (ZAS) and Moshe E. Bar-Lev (Tel
 Aviv University): 
-<br><em>A stress-free alternative to a Homogeneity
-presupposition</em>
+<br><strong>*</strong><em>A stress-free alternative to a Homogeneity
+presupposition</em></a>
 </td>
 </tr>
 <tr>
@@ -45,9 +45,9 @@ Sentences with Context</em></td>
 </tr>
 <tr>
 <td style="text-align: center;">14:00-14:40</td>
-<td style="text-align: left;">Omri Doron (MIT):<br>
+<td style="text-align: left;"><a href="abstracts/doron.pdf">Omri Doron (MIT):<br>
 <strong>*</strong><em>Disjunctive inferences and presupposition
-projection</em></td>
+projection</em></a></td>
 </tr>
 <tr>
 <td style="text-align: center;">14:40-15:00</td>
@@ -61,15 +61,15 @@ plural definite sentences</em></td>
 </tr>
 <tr>
 <td style="text-align: center;">15:20-16:00</td>
-<td style="text-align: left;">Shrayana Haldar (MIT):
+<td style="text-align: left;"><a href="abstracts/haldar.pdf">Shrayana Haldar (MIT):
 <br><strong>*</strong><em>Unifying Weak Necessity and Habituality through
-Homogeneity: A Case from Bengali</em></td>
+Homogeneity: A Case from Bengali</em></a></td>
 </tr>
 <tr>
 <td style="text-align: center;">16:00-16:40</td>
-<td style="text-align: left;">Maik Thalmann (Georg-August-Universität
+<td style="text-align: left;"><a href="abstracts/thalmann_matticchio.pdf">Maik Thalmann (Georg-August-Universität
 Göttingen) and Andrea Matticchio (UMass Amherst): <br><em>On being certain
-that presuppositions don’t project universally</em></td>
+that presuppositions don’t project universally</em></a></td>
 </tr>
 <tr>
 <td style="text-align: center;">17:00</td>
@@ -101,14 +101,14 @@ data from polar questions</em></td>
 </tr>
 <tr>
 <td style="text-align: center;">11:40-12:00</td>
-<td style="text-align: left;">Stefan Milosavljević
-(Karl-Franzens-Universität Graz): <br><strong>*</strong><em>Where does the multifunctionality of ‘lexical’ cloning come from? A unified account of prototypicality, precisification and domain widening</em></td>
+<td style="text-align: left;"><a href="abstracts/milosavljevic.pdf">Stefan Milosavljević
+(Karl-Franzens-Universität Graz): <br><strong>*</strong><em>Where does the multifunctionality of ‘lexical’ cloning come from? A unified account of prototypicality, precisification and domain widening</em></a></td>
 </tr>
 <tr>
 <td style="text-align: center;">12:00-12:40</td>
-<td style="text-align: left;">Janek Guerrini (Goethe-Universität
+<td style="text-align: left;"><a href="abstracts/guerrini.pdf">Janek Guerrini (Goethe-Universität
 Frankfurt): <br><em>Articulating gradability, dimension selection, and
-homogeneity in color adjectives</em></td>
+homogeneity in color adjectives</em></a></td>
 </tr>
 <tr>
 <td style="text-align: center;">12:40-14:00</td>
