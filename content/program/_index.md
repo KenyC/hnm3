@@ -34,10 +34,10 @@ presupposition</em></a>
 </tr>
 <tr>
 <td style="text-align: center;">12:00-12:40</td>
-<td style="text-align: left;">Flavia Naehrlich, Harmen de Weerd, Rineke
+<td style="text-align: left;"><a href="abstracts/naehrlich_nonmaxL1acquisition.pdf">Flavia Naehrlich, Harmen de Weerd, Rineke
 Verbrugge and Angeliek van Hout (University of Groningen):
-<br><em>Children’s Acquisition of Non-maximality in Plural Definite
-Sentences with Context</em></td>
+<br><em>Children's Acquisition of Non-maximality in Plural Definite
+Sentences with Context</em></a></td>
 </tr>
 <tr>
 <td style="text-align: center;">12:40-14:00</td>
@@ -51,9 +51,9 @@ projection</em></a></td>
 </tr>
 <tr>
 <td style="text-align: center;">14:40-15:00</td>
-<td style="text-align: left;">Flavia Naehrlich (University of
+<td style="text-align: left;"><a href="abstracts/naehrlich_generics.pdf">Flavia Naehrlich (University of
 Groningen): <br><em>Unifying underspecification in bare plural generics and
-plural definite sentences</em></td>
+plural definite sentences</em></a></td>
 </tr>
 <tr>
 <td style="text-align: center;">15:00-15:20</td>
@@ -95,9 +95,9 @@ talk (TBA)</th>
 </tr>
 <tr>
 <td style="text-align: center;">11:20-11:40</td>
-<td style="text-align: left;">Angèle Bernard (Nantes Université):
+<td style="text-align: left;"><a href="abstracts/bernard_questions.pdf">Angèle Bernard (Nantes Université):
 <br><em>Distinguishing homogeneity from presuppositions: reassessing the
-data from polar questions</em></td>
+data from polar questions</em></a></td>
 </tr>
 <tr>
 <td style="text-align: center;">11:40-12:00</td>
@@ -116,9 +116,9 @@ homogeneity in color adjectives</em></a></td>
 </tr>
 <tr>
 <td style="text-align: center;">14:00-14:20</td>
-<td style="text-align: left;">Comfort Ahenkorah (Yale)
+<td style="text-align: left;"><a href="abstracts/ahenkorah.pdf">Comfort Ahenkorah (Yale)
 <br><strong>*</strong><em>Navigating number marking in Akan nominals and
-predicates</em></td>
+predicates</em></a></td>
 </tr>
 <tr>
 <td style="text-align: center;">14:20-14:40</td>
@@ -131,9 +131,9 @@ predicates</em></td>
 </tr>
 <tr>
 <td style="text-align: center;">15:00-15:20</td>
-<td style="text-align: left;">Angèle Bernard (Nantes Université):
+<td style="text-align: left;"><a href="abstracts/bernard_mt.pdf">Angèle Bernard (Nantes Université):
 <br><em>Processing non-maximal readings of plural definites: A
-mouse-tracking investigation</em></td>
+mouse-tracking investigation</em></a></td>
 </tr>
 <tr>
 <td style="text-align: center;">15:20-15:40</td>
