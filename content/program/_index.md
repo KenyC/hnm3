@@ -18,7 +18,10 @@ with a <strong>*</strong> on the program. All times refer to the CET timezone.</
 <tr>
 <td style="text-align: center;">10:00-11:00</td>
 <td style="text-align: left;">Benjamin Spector (Institut Jean
-Nicod/ENS): invited talk (TBA)</td>
+Nicod/ENS):
+<br>
+<em>Weak and Strong Readings of anaphora and Trivalence</em>
+</td>
 </tr>
 <tr>
 <td style="text-align: center;">11:00-11:20</td>
@@ -86,8 +89,10 @@ that presuppositions don’t project universally</em></a></td>
 <tbody>
 <tr>
 <td style="text-align: center;">10:00-11:00</th>
-<td style="text-align: left;">Nadine Bade (Universität Potsdam): invited
-talk (TBA)</th>
+<td style="text-align: left;">Nadine Bade (Universität Potsdam):
+<br>
+<em>Finding the gap or filling it? Experimental measures of undefinedness</em>
+</th>
 </tr>
 <tr>
 <td style="text-align: center;">11:00-11:20</td>
@@ -122,8 +127,8 @@ predicates</em></a></td>
 </tr>
 <tr>
 <td style="text-align: center;">14:20-14:40</td>
-<td style="text-align: left;">Jia Ren (UMass Amherst):
-<br><strong>*</strong><em>Associative Plurals as Definites</em></td>
+<td style="text-align: left;"><a href="abstracts/ren_assoc.pdf">Jia Ren (UMass Amherst):
+<br><strong>*</strong><em>Associative Plurals as Definites</em></a></td>
 </tr>
 <tr>
 <td style="text-align: center;">14:40-15:00</td>
@@ -137,9 +142,9 @@ mouse-tracking investigation</em></a></td>
 </tr>
 <tr>
 <td style="text-align: center;">15:20-15:40</td>
-<td style="text-align: left;">Jia Ren (UMass Amherst):
+<td style="text-align: left;"><a href="abstracts/ren_num.pdf">Jia Ren (UMass Amherst):
 <br><strong>*</strong><em>English definite numerals and nominal conjunctions
-are different</em></td>
+are different</em></a></td>
 </tr>
 <tr>
 <td style="text-align: center;">15:40-16:00</td>
@@ -147,7 +152,10 @@ are different</em></td>
 </tr>
 <tr>
 <td style="text-align: center;">16:00-17:00</td>
-<td style="text-align: left;">Jad Wehbe (MIT): invited talk (TBA)</td>
+<td style="text-align: left;">Jad Wehbe (MIT):
+<br>
+<em>Redundancy and presuppositional exhaustification</em>
+</td>
 </tr>
 <tr>
 <td style="text-align: center;">18:00</td>
