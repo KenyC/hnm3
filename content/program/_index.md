@@ -2,6 +2,7 @@
 title = "Program"
 +++
 
+
 <p>Note that this is a hybrid event. Online presentations are marked
 with a <strong>*</strong> on the program. All times refer to the CET timezone.</p>
 <h1>Tuesday, October 8</h1>
@@ -14,6 +15,12 @@ with a <strong>*</strong> on the program. All times refer to the CET timezone.</
 <tr>
 <td style="text-align: center;">9:45-10:00</th>
 <td style="text-align: left;"><strong>opening remarks</strong></th>
+</tr>
+<tr class="merge">
+<td style="font-size: 75%; border-bottom: none; text-align: center;">chair: Keny Chatain</td>
+<td style="border-bottom: none; text-align: left;">
+<strong>invited talk</strong>
+</td>
 </tr>
 <tr>
 <td style="text-align: center;">10:00-11:00</td>
@@ -28,8 +35,12 @@ Nicod/ENS):
 <td style="text-align: left;"><strong>coffee break</strong></td>
 </tr>
 <tr>
-<td style="text-align: center;">11:20-12:00</td>
-<td style="text-align: left;"><a href="/abstracts/bassi_barlev.pdf">Itai Bassi (ZAS) and Moshe E. Bar-Lev (Tel
+<td style="text-align: center; border-bottom: none; font-size: 75%;">chair: Andreea Nicolae</td>
+<td style="text-align: left; border-bottom: none;"><strong>contributed talks</strong></td>
+</tr>
+<tr>
+<td style="border-bottom: none; text-align: center;">11:20-12:00</td>
+<td style="border-bottom: none; text-align: left;"><a href="/abstracts/bassi_barlev.pdf">Itai Bassi (ZAS) and Moshe E. Bar-Lev (Tel
 Aviv University): 
 <br><strong>*</strong><em>A stress-free alternative to a Homogeneity
 presupposition</em></a>
@@ -47,8 +58,12 @@ Sentences with Context</em></a></td>
 <td style="text-align: left;"><strong>lunch break</strong></td>
 </tr>
 <tr>
-<td style="text-align: center;">14:00-14:40</td>
-<td style="text-align: left;"><a href="/abstracts/doron.pdf">Omri Doron (MIT):<br>
+<td style="font-size: 75%; border-bottom: none; text-align: center;">chair: Janek Guerrini</td>
+<td style="border-bottom: none; text-align: left;"><strong>contributed talks</strong></td>
+</tr>
+<tr>
+<td style="border-bottom: none; text-align: center;">14:00-14:40</td>
+<td style="border-bottom: none; text-align: left;"><a href="/abstracts/doron.pdf">Omri Doron (MIT):<br>
 <strong>*</strong><em>Disjunctive inferences and presupposition
 projection</em></a></td>
 </tr>
@@ -63,16 +78,20 @@ plural definite sentences</em></a></td>
 <td style="text-align: left;"><strong>coffee break</strong></td>
 </tr>
 <tr>
+<td style="font-size: 75%; border-bottom: none; text-align: center;">chair: Jad Wehbe</td>
+<td style="border-bottom: none; text-align: left;"><strong>contributed talks</strong></td>
+</tr>
+<tr>
+<td style="border-bottom: none; text-align: center;">16:00-16:40</td>
+<td style="border-bottom: none; text-align: left;"><a href="/abstracts/thalmann_matticchio.pdf">Maik Thalmann (Georg-August-Universität
+Göttingen) and Andrea Matticchio (UMass Amherst): <br><em>On being certain
+that presuppositions don’t project universally</em></a></td>
+</tr>
+<tr>
 <td style="text-align: center;">15:20-16:00</td>
 <td style="text-align: left;"><a href="/abstracts/haldar.pdf">Shrayana Haldar (MIT):
 <br><strong>*</strong><em>Unifying Weak Necessity and Habituality through
 Homogeneity: A Case from Bengali</em></a></td>
-</tr>
-<tr>
-<td style="text-align: center;">16:00-16:40</td>
-<td style="text-align: left;"><a href="/abstracts/thalmann_matticchio.pdf">Maik Thalmann (Georg-August-Universität
-Göttingen) and Andrea Matticchio (UMass Amherst): <br><em>On being certain
-that presuppositions don’t project universally</em></a></td>
 </tr>
 <tr>
 <td style="text-align: center;">17:00</td>
@@ -88,25 +107,35 @@ that presuppositions don’t project universally</em></a></td>
 </colgroup>
 <tbody>
 <tr>
+<td style="font-size: 75%;border-bottom: none; text-align: center;">chair: Nina Haslinger</td>
+<td style="border-bottom: none; text-align: left;">
+<strong>invited talk</strong>
+</td>
+</tr>
+<tr>
 <td style="text-align: center;">10:00-11:00</th>
 <td style="text-align: left;">Nadine Bade (Universität Potsdam):
 <br>
 <em>Finding the gap or filling it? Experimental measures of undefinedness</em>
-</th>
+</td>
 </tr>
 <tr>
 <td style="text-align: center;">11:00-11:20</td>
 <td style="text-align: left;"><strong>coffee break</strong></td>
 </tr>
 <tr>
-<td style="text-align: center;">11:20-11:40</td>
-<td style="text-align: left;"><a href="/abstracts/bernard_questions.pdf">Angèle Bernard (Nantes Université):
+<td style="font-size: 75%; border-bottom: none; text-align: center;">chair: Benjamin Spector</td>
+<td style="border-bottom: none; text-align: left;"><strong>contributed talks</strong></td>
+</tr>
+<tr>
+<td style="border-bottom: none; text-align: center;">11:20-11:40</td>
+<td style="border-bottom: none; text-align: left;"><a href="/abstracts/bernard_questions.pdf">Angèle Bernard (Nantes Université):
 <br><em>Distinguishing homogeneity from presuppositions: reassessing the
 data from polar questions</em></a></td>
 </tr>
 <tr>
-<td style="text-align: center;">11:40-12:00</td>
-<td style="text-align: left;"><a href="/abstracts/milosavljevic.pdf">Stefan Milosavljević
+<td style="border-bottom: none;text-align: center;">11:40-12:00</td>
+<td style="border-bottom: none;text-align: left;"><a href="/abstracts/milosavljevic.pdf">Stefan Milosavljević
 (Karl-Franzens-Universität Graz): <br><strong>*</strong><em>Where does the multifunctionality of ‘lexical’ cloning come from? A unified account of prototypicality, precisification and domain widening</em></a></td>
 </tr>
 <tr>
@@ -120,8 +149,12 @@ homogeneity in color adjectives</em></a></td>
 <td style="text-align: left;"><strong>lunch break</strong></td>
 </tr>
 <tr>
-<td style="text-align: center;">14:00-14:20</td>
-<td style="text-align: left;"><a href="/abstracts/ahenkorah.pdf">Comfort Ahenkorah (Yale)
+<td style="font-size: 75%; border-bottom: none; text-align: center;">chair: Maik Thalmann</td>
+<td style="border-bottom: none; text-align: left;"><strong>contributed talks</strong></td>
+</tr>
+<tr>
+<td style="border-bottom: none; text-align: center;">14:00-14:20</td>
+<td style="border-bottom: none; text-align: left;"><a href="/abstracts/ahenkorah.pdf">Comfort Ahenkorah (Yale)
 <br><strong>*</strong><em>Navigating number marking in Akan nominals and
 predicates</em></a></td>
 </tr>
@@ -135,8 +168,12 @@ predicates</em></a></td>
 <td style="text-align: left;"><strong>coffee break</strong></td>
 </tr>
 <tr>
-<td style="text-align: center;">15:00-15:20</td>
-<td style="text-align: left;"><a href="/abstracts/bernard_mt.pdf">Angèle Bernard (Nantes Université):
+<tr>
+<td style="font-size: 75%; border-bottom: none; text-align: center;">chair: Nadine Bade</td>
+<td style="border-bottom: none; text-align: left;"><strong>contributed talks</strong></td>
+</tr>
+<td style="border-bottom: none; text-align: center;">15:00-15:20</td>
+<td style="border-bottom: none; text-align: left;"><a href="/abstracts/bernard_mt.pdf">Angèle Bernard (Nantes Université):
 <br><em>Processing non-maximal readings of plural definites: A
 mouse-tracking investigation</em></a></td>
 </tr>
@@ -149,6 +186,12 @@ are different</em></a></td>
 <tr>
 <td style="text-align: center;">15:40-16:00</td>
 <td style="text-align: left;"><strong>coffee break</strong></td>
+</tr>
+<tr>
+<td style="font-size: 75%; border-bottom: none; text-align: center;">chair: Nina Haslinger</td>
+<td style="border-bottom: none; text-align: left;">
+<strong>invited talk</strong>
+</td>
 </tr>
 <tr>
 <td style="text-align: center;">16:00-17:00</td>
