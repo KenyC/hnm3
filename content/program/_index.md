@@ -82,13 +82,13 @@ plural definite sentences</em></a></td>
 <td style="border-bottom: none; text-align: left;"><strong>contributed talks</strong></td>
 </tr>
 <tr>
-<td style="border-bottom: none; text-align: center;">16:00-16:40</td>
+<td style="border-bottom: none; text-align: center;">15:20-16:00</td>
 <td style="border-bottom: none; text-align: left;"><a href="/abstracts/thalmann_matticchio.pdf">Maik Thalmann (Georg-August-Universität
 Göttingen) and Andrea Matticchio (UMass Amherst): <br><em>On being certain
 that presuppositions don’t project universally</em></a></td>
 </tr>
 <tr>
-<td style="text-align: center;">15:20-16:00</td>
+<td style="text-align: center;">16:00-16:40</td>
 <td style="text-align: left;"><a href="/abstracts/haldar.pdf">Shrayana Haldar (MIT):
 <br><strong>*</strong><em>Unifying Weak Necessity and Habituality through
 Homogeneity: A Case from Bengali</em></a></td>
