@@ -202,7 +202,9 @@ are different</em></a></td>
 </tr>
 <tr>
 <td style="text-align: center;">18:00</td>
-<td style="text-align: left;"><strong>social dinner</strong></td>
+<td style="text-align: left;"><strong>social dinner</strong><br>
+Viet Bowl Charlottenburg (Uhlandstraße 156)
+</td>
 </tr>
 </tbody>
 </table>
